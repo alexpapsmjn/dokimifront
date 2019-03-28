@@ -4,7 +4,7 @@
 
 We have provided you with our logo (mjn-logo.png).  We want you to recreate this logo using HTML and CSS only.  **Do not recreate it using an SVG or Canvas**
 
-![logo](mjn-logo.png =250x)
+![logo](mjn-logo.png =250x250)
 
 ## Deliverables & Tips
 
