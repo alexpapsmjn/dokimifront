@@ -4,7 +4,7 @@
 
 The final exercise is to create a responsive form that is reactive.  The end result is to recreate the form shown in the image *form.png*.  In this form, the user is able to select the days and times that they want to work, and to save their preferences.
 
-[End Result](form.png)
+![End Result](form.png)
 
 You are free to design the data structure as you wish.  The only thing we care about is that the data you send allows us to differentiate the day and the time for each shift.  It would be great if you can do this in React using the [boilerplate](https://github.com/react-boilerplate/react-boilerplate), but we're ok if you do it in plain Javascript.
 
