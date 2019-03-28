@@ -4,6 +4,8 @@
 
 We have provided you with our logo (mjn-logo.png).  We want you to recreate this logo using HTML and CSS only.  **Do not recreate it using an SVG or Canvas**
 
+![logo](mjn-logo.png)
+
 ## Deliverables & Tips
 
 - We are expecting an HTML and a CSS file in this folder.
