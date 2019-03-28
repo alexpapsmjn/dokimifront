@@ -4,7 +4,7 @@
 
 We have provided you with our logo (mjn-logo.png).  We want you to recreate this logo using HTML and CSS only.  **Do not recreate it using an SVG or Canvas**
 
-![logo](mjn-logo.png =250x250)
+<img src="https://github.com/alexpapsmjn/dokimifront/blob/master/1-HTML/mjn-logo.png?raw=true" width="250px" />
 
 ## Deliverables & Tips
 
